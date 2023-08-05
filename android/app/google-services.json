@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "192179538957",
+    "project_id": "foodninja-b2a45",
+    "storage_bucket": "foodninja-b2a45.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:192179538957:android:f9a091071d5e412a161944",
+        "android_client_info": {
+          "package_name": "com.example.foodninja"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "192179538957-5iqq44tdmikm31esmqr2bib2lfe89vjf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.foodninja",
+            "certificate_hash": "62d68f3e0d8c57c0dccb2747a4cc5e84ef30acba"
+          }
+        },
+        {
+          "client_id": "192179538957-apaenivo54onf9q2ujptpl2g8olh4lh3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCf0hW3YhhseZ3pe0KnWBhou7nRA7EMMYU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "192179538957-apaenivo54onf9q2ujptpl2g8olh4lh3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
